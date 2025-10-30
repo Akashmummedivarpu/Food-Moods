@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sakethnarayana/Food-Mood.git
+   git clone https://github.com/Akashmummedivarpu/Food-Mood.git
    cd Food-Mood
    ```
 
